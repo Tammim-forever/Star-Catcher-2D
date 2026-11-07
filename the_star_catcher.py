@@ -183,7 +183,7 @@ def update(value):
             caught = item["y"] < player_y + 10 and item["y"] > player_y - 28 and abs(item["x"] - player_x) < item["r"] + 16
             if caught:
                 if item["kind"] == "star":
-                    score += 1
+                    score += 3
                 else:
                     lives -= 1
                     if lives <= 0:
@@ -269,4 +269,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

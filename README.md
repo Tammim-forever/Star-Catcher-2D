@@ -7,6 +7,11 @@ An interactive 2D arcade game built with Python, OpenGL, and GLUT. Steer your sh
 <img width="400" height="300" alt="Recording 2026-11-07 175302" src="https://github.com/user-attachments/assets/a5dc1b6e-1954-4be8-862e-72eb0c65fe7d" />
 
 
+## Scoring
+
+- Collect a star: **+3 points**
+- Survive: **+1 point every second**
+
 ## Features
 
 - Animated starfield, spaceship, stars, and asteroids

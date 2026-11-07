@@ -2,6 +2,10 @@
 
 An interactive 2D arcade game built with Python, OpenGL, and GLUT. Steer your ship through space, collect stars to increase your score, and avoid asteroids.
 
+## Gameplay Demo
+
+![Star Catcher gameplay demonstration](assets/star-catcher-demo.gif)
+
 ## Features
 
 - Animated starfield, spaceship, stars, and asteroids
